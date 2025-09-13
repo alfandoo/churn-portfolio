@@ -22,7 +22,3 @@ Visual comparisons (F1 & ROC-AUC) and business recommendations included.
 - **Model Benchmarking** → Logistic Regression, Random Forest, XGBoost, SVM, KNN  
 - **Artifacts** → `results.csv`, `charts/*.png`  
 - **Colab-first** → runnable directly in Google Colab  
-
----
-
-## 📂 Project Structure
